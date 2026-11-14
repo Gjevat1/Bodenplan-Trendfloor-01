@@ -1,0 +1,14 @@
+ChatGPT – Trendfloor Bodenplan v038
+
+Diese Version enthält ausschließlich optische und Bedienungs-Verbesserungen gegenüber v037.
+
+Neu in v038:
+- Der Bereich „Wände“ lässt sich über den Pfeil ein- und ausklappen.
+- Buttons sind einheitlicher und ruhiger gestaltet.
+- Die aktive Zeichenfunktion bleibt klar blau markiert.
+- Abstände, Felder und Karten wurden für eine modernere App-Ansicht vereinheitlicht.
+
+Die vorhandenen Berechnungen, Zeichenfunktionen und Projekt-Datenlogik wurden nicht absichtlich verändert.
+
+Dateien: index.html, sw.js, manifest.webmanifest.
+Hinweis: Die App wurde technisch auf JavaScript-Syntax und Manifest-Format geprüft. Ein vollständiger Test auf einem echten Handy steht noch aus.
